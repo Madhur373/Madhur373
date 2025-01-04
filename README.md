@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Madhur Kakkar, a Computer Science Engineering student passionate about AI, ML, and software development.<br><br>🌱 I'm currently working on:<br>An Enhanced Real-Time Sign Language Detection and Multilingual Translation System.<br>🤝 I’m looking to collaborate on projects that make a real difference in people’s lives.
+Hi there 👋<br>I'm Madhur Kakkar, a Computer Science Engineering student passionate about AI, ML, and software development.<br><br>🌱 I'm currently working on: An Enhanced Real-Time Sign Language Detection and Multilingual Translation System.<br>🤝 I’m looking to collaborate on: projects that make a real difference in people’s lives.
 
 
 ## 🌐 Socials:
